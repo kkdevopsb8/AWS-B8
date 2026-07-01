@@ -1,0 +1,5 @@
+1. Windows server launch
+2. user data
+3. Launch teamplate
+4. Elastic Ip
+5. Security Group
